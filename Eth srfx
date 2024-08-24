@@ -1,0 +1,16 @@
+{
+  "TransactionType": "XChainCreateBridge",
+  "Account": "rDgBV9WrwJ3WwtRWhkekMhDas3muFeKvoS",
+  "XChainBridge": {
+    "LockingChainDoor": "rhWQzvdmhf5vFS35vtKUSUwNZHGT53qQsg",
+    "LockingChainIssue": {
+      "currency": "SRFX"
+    },
+    "IssuingChainDoor": "0xCF2fe6065a2852989e6d81971Ef1Ca7C0Ab64611",
+    "IssuingChainIssue": {
+      "currency": "wSRFX"
+    }
+  },
+  "SignatureReward": 200,
+  "MinAccountCreateAmount": 600000000
+}
